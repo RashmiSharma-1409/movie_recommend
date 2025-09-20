@@ -1,0 +1,2 @@
+text 
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. It includes learning, reasoning, and self-correction. Examples of AI applications include expert systems, natural language processing (NLP), speech recognition, machine vision, and generative tools like ChatGPT and Perplexity.

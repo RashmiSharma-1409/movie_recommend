@@ -1,0 +1,224 @@
+userId,movieId,title,rating
+1,3000,Pataal Lok,7.5
+2,3001,Upload,8.1
+3,3002,The Marvelous Mrs. Maisel,8.7
+4,3003,Four More Shots Please,5.3
+5,3004,Fleabag,8.7
+6,3005,Made in Heaven,8.3
+7,3006,Homecoming,7.5
+8,3007,Mirzapur,8.5
+9,3008,The Family Man,8.6
+10,3009,Modern Love,8.0
+11,3010,Comicstaan,6.8
+12,3011,Inside Edge,8.0
+13,3012,The Boys,8.7
+14,3013,Hanna,7.5
+15,3014,Hunters,7.2
+16,3015,Good Omens,8.1
+17,3016,Breathe,8.4
+18,3017,The Forgotten Army- Azaadi ke Liye,8.0
+19,3018,Tom Clancy's Jack Ryan,8.1
+20,3019,Tales from the Loop,7.5
+21,3020,The Test: A New Era for Australia's Team,9.0
+22,3021,The Man in the High Castle,8.0
+23,3022,One Mic Stand,6.5
+24,3023,Undone,8.2
+25,3024,American Gods,7.8
+26,3025,The Tick,7.4
+27,3026,Jestination Unknown,6.2
+28,3027,Man with a Plan,7.0
+29,3028,Suits,8.5
+30,3029,Doctor Who,8.6
+31,3030,Grey's Anatomy,7.6
+32,3031,The Mentalist,8.1
+33,3032,Afsos,7.6
+34,3033,Laakhon Mein Ek,8.3
+35,3034,House,8.7
+36,3035,The Good Doctor,8.2
+37,3036,The Vampire Diaries,7.7
+38,3037,Hostel Daze,8.7
+39,3038,Mr. Robot,8.5
+40,3039,Supernatural,8.4
+41,3040,Dexter,8.6
+42,3041,The Magicians,7.6
+43,3042,Blindspot,7.4
+44,3043,The Good Wife,8.3
+45,3044,The Girlfriend Experience,7.1
+46,3045,Chacha Vidhayak Hain Humare,7.9
+47,3046,Scorpion,7.1
+48,3047,Shameless,8.6
+49,3048,Reign,7.5
+50,3049,Downtown Abbey,8.7
+51,3050,McMafia,7.7
+52,3051,This is Us,8.7
+53,3052,Malgudi Days Swami & Friends 1,9.5
+54,3053,Nikita,7.7
+55,3054,Carnival Row,7.9
+56,3055,Legacies,7.5
+57,3056,Bates Motel,8.2
+58,3057,The Exorcist,8.1
+59,3058,The Night Manager,8.1
+60,3059,The Originals,8.2
+61,3060,The Purge,6.5
+62,3061,Deception,7.5
+63,3062,The Last Ship,7.5
+64,3063,Treadstone,7.0
+65,3064,The Terror,8.0
+66,3065,Manifest,7.2
+67,3066,Pushpavalli,7.5
+68,3067,Fringe,8.4
+69,3068,Person of Interest,8.4
+70,3069,The Affair,7.9
+71,3070,The American Playboy: The Hugh Hefner Story,7.5
+72,3071,The Widow,6.9
+73,3072,God Friended Me,6.9
+74,3073,Star Trek: Picard,7.6
+75,3074,Fear the Walking Dead,6.9
+76,3075,Taken,6.6
+77,3076,Bosch,8.4
+78,3077,Elementary,7.9
+79,3078,Beauty and the Beast,7.1
+80,3079,NCIS,7.8
+81,3080,Masters of Sex,7.9
+82,3081,Into the Badlands,8.0
+83,3082,Vella Raja,7.2
+84,3083,Bang Baaja Baaraat,8.0
+85,3084,Covert Affairs,7.3
+86,3085,The Handmaid's Tale,8.5
+87,3086,Gangstars,6.9
+88,3087,Madam Secretary,7.6
+89,3088,Marvel's Runaways,7.0
+90,3089,One Tree Hill,7.7
+91,3090,Absentia,7.3
+92,3091,Grimm,7.8
+93,3092,Heroes,7.5
+94,3093,Startup,8.0
+95,3094,Extant,6.6
+96,3095,Goliath,8.2
+97,3096,Station 19,6.6
+98,3097,Diablo Guardian,6.0
+99,3098,Lethal Weapon,7.9
+100,3099,Chernobyl: Aftermath,5.8
+101,3100,Blue Bloods,7.6
+102,3101,Patriot,8.3
+103,3102,Rizzoli and Isles,7.6
+104,3103,Luther,8.5
+105,3104,Dispatches from Elsewhere,6.8
+106,3105,Mad Men,8.6
+107,3106,The Looming Tower,8.0
+108,3107,Siyaasat,7.4
+109,3112,Major Crimes,7.7
+110,3115,Famous in Love,6.9
+111,3118,Hawaii Five-O,7.3
+112,3119,Penny Dreadful,8.2
+113,3124,Preacher,8.0
+114,3126,Claws,7.3
+115,3128,Sneaky Pete,8.2
+116,3131,Hap and Leonard,7.6
+117,3133,Murder in the First,7.2
+118,3134,House of Lies,7.4
+119,3136,Dance Academy,8.1
+120,3138,Mozart in the Jungle,8.2
+121,3140,The Romanoffs,7.0
+122,3142,Ray Donovan,8.3
+123,3144,Training Day,6.0
+124,3145,Flesh and Bone,8.0
+125,3147,Tokyo Girl,8.1
+126,3148,Z: The Beginning of Everything,7.2
+127,3149,Guilt,6.0
+128,3150,Good Girls Revolt,8.2
+129,3151,Hand of God,7.5
+130,3153,Time After Time,6.7
+131,3154,Life,8.3
+132,3157,Fukuyadou Honpo-Kyoto Love Story,7.7
+133,3160,Deutschland,8.1
+134,3161,Lore,6.7
+135,3162,Tokyo Alice,4.0
+136,3165,Transparent,7.8
+137,3166,The Last Tycoon,7.7
+138,3175,Final Life,5.2
+139,3176,Falling Water,6.5
+140,3182,The Collection,7.1
+141,3183,Beat,7.4
+142,3188,Feed the Beast,6.7
+143,3193,One Mississippi,7.3
+144,3194,Roadies,7.3
+145,3202,The Path,7.3
+146,3203,Girlfriends Guide to Divorce,6.9
+147,3204,Lorena,7.2
+148,3207,Queen Sugar,7.7
+149,3216,An Unknown Enemy,8.1
+150,3222,The Last Ship,7.5
+151,3223,Constantine,7.5
+152,3226,Lost in Oz,7.7
+153,3235,Amazon Riders,7.9
+154,3243,Skulls and Roses,4.3
+155,3261,Mr. Bean,8.5
+156,3263,Mr. Bean: The Animated Series,6.8
+157,3264,2 Broke Girls,6.7
+158,3265,The Stinky & Dirty Show,7.1
+159,3267,Two and a Half Men,7.0
+160,3269,Russell Peters: Deported,6.1
+161,3274,Mom,7.2
+162,3276,Oggy and the Cockroaches,7.3
+163,3277,The Kicks,6.9
+164,3278,The PowerPuff Girls,7.2
+165,3279,The Middle,7.5
+166,3281,Seinfeld,8.8
+167,3283,Chaplin & Co,5.8
+168,3286,Jimmy O. Yang: Good Deal,7.1
+169,3290,The Mindy Project,7.4
+170,3292,Johnny Bravo,7.2
+171,3293,Californication,8.3
+172,3294,Sigmund and the Sea Monsters,6.9
+173,3296,Munki and Trunk,8.4
+174,3297,Anger Management,6.6
+175,3298,Jean Claude Van Johnson,7.6
+176,3299,Best of AIB,8.2
+177,3300,Forever,7.2
+178,3301,Dennis the Menace,6.3
+179,3303,I love Dick,6.2
+180,3310,Desperate Widows,6.5
+181,3312,Trial and Error,8.0
+182,3313,Man's World,7.3
+183,3314,Anne Edmonds: What's Wrong with You?,6.4
+184,3315,Red Oaks,7.9
+185,3316,Censhorship in the Future,6.3
+186,3317,Alice Wettlund: My Mama is a Human and So Am I,4.7
+187,3319,That Girl,7.1
+188,3320,Little Big Awesome,7.2
+189,3322,Tommy Little: Self-Diagnosed Genius,6.2
+190,3324,The New Archie's,6.7
+191,3326,The Detour,7.7
+192,3329,Danger and Eggs,6.6
+193,3330,EIC vs The World,8.0
+194,3331,SNG: What if,6.0
+195,3333,Kanan Gill: How Insensitive,7.0
+196,3334,Jim Gaffigan: Quality Time,7.6
+197,3335,Angie Tribeca,7.0
+198,3336,Inside Jokes,7.1
+199,3338,Judith Lucy: Judith Lucy vs Men,6.0
+200,3340,The Grand Tour,8.7
+201,3341,The Adventures of Rocky and Bullwinkle,5.4
+202,3342,The Adventures of Paddington Bear,7.1
+203,3346,Tom Gleeson: Joy,6.3
+204,3347,People of Earth,7.7
+205,3348,Son of Abish,7.3
+206,3350,Jayde Adams: Serious Black Jumper,6.9
+207,3351,Crisis in Six Scenes,6.6
+208,3352,Alonzo Bodden: Heavy Lightweight,5.6
+209,3353,Chris Ramsey: Approval Needed,7.2
+210,3355,#IMomSoHard Live,5.4
+211,3357,Lano & Woodley: Fly,6.2
+212,3358,The Late Show with James Corden,6.2
+213,3361,Rob Delaney: Jackie,6.4
+214,3362,Mike E. Winfield: StepMan,6.3
+215,3367,Ilana Glazer: The Planet is Burning,3.7
+216,3368,Scream Street,7.1
+217,3369,"Me, Myself and I",7.2
+218,3371,The Kacey Musgraves Christmas Show,7.2
+219,3373,The Danny Thomas Show,7.2
+220,3374,Hitoshi Matsumoto Presents Documental,8.0
+221,3375,Businessmen VS Aliens,4.5
+222,3379,Scooter: Secret Agent,6.8
+223,3383,The Real McCoys,7.5

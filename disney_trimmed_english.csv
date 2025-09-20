@@ -1,0 +1,418 @@
+userId,movieId,title,rating
+1,1000,Academy Award Review of ,7.1
+2,1001,Snow White and the Seven Dwarfs,7.6
+3,1002,Pinocchio,7.4
+4,1003,Fantasia,7.7
+5,1004,The Reluctant Dragon,6.9
+6,1005,Dumbo,7.2
+7,1006,Bambi,7.3
+8,1007,Saludos Amigos,6.1
+9,1008,Victory Through Air Power,6.5
+10,1009,The Three Caballeros,6.4
+11,1010,Make Mine Music,6.3
+12,1011,Song of the South,7.1
+13,1012,Fun and Fancy Free,6.5
+14,1013,Melody Time,6.3
+15,1014,So Dear to My Heart,6.8
+16,1016,Cinderella,6.9
+17,1017,Treasure Island,6.9
+18,1018,Alice in Wonderland,6.4
+19,1019,The Story of Robin Hood,6.7
+20,1020,Peter Pan,7.3
+21,1021,The Sword and the Rose,6.4
+22,1022,The Living Desert,7.5
+23,1023,Rob Roy: The Highland Rogue,6.3
+24,1024,The Vanishing Prairie,7.4
+25,1025,"20,000 Leagues Under the Sea",7.2
+26,1026,Davy Crockett: King of the Wild Frontier,7.0
+27,1027,Lady and the Tramp,7.3
+28,1028,The African Lion,7.2
+29,1029,The Littlest Outlaw,6.2
+30,1030,The Great Locomotive Chase,6.9
+31,1031,Davy Crockett and the River Pirates,6.8
+32,1032,Secrets of Life,7.3
+33,1033,Westward Ho the Wagons!,5.8
+34,1034,Johnny Tremain,6.5
+35,1035,Perri,6.8
+36,1036,Old Yeller,7.3
+37,1037,The Light in the Forest,6.5
+38,1038,White Wilderness,5.1
+39,1039,Tonka,6.5
+40,1040,Sleeping Beauty,7.2
+41,1041,The Shaggy Dog,4.4
+42,1042,Darby O'Gill and the Little People,7.2
+43,1043,Third Man on the Mountain,7.1
+44,1045,Kidnapped,7.6
+45,1046,Pollyanna,7.4
+46,1047,Jungle Cat,7.3
+47,1048,Ten Who Dared,5.7
+48,1049,Swiss Family Robinson,7.2
+49,1050,One Hundred and One Dalmatians,7.3
+50,1052,The Parent Trap,6.5
+51,1053,Nikki: Wild Dog of the North,6.9
+52,1054,Greyfriars Bobby,7.3
+53,1055,Babes in Toyland,6.3
+54,1056,Moon Pilot,5.4
+55,1057,Bon Voyage!,5.8
+56,1058,Big Red,6.4
+57,1059,Almost Angels,6.6
+58,1060,The Legend of Lobo,7.0
+59,1061,In Search of the Castaways,6.6
+60,1062,Son of Flubber,6.2
+61,1063,Miracle of the White Stallions,6.6
+62,1064,Savage Sam,6.2
+63,1065,Summer Magic,7.1
+64,1066,The Incredible Journey,7.1
+65,1067,The Sword in the Stone,7.2
+66,1068,A Tiger Walks,6.4
+67,1069,The Misadventures of Merlin Jones,6.4
+68,1070,The Three Lives of Thomasina,7.2
+69,1071,The Moon-Spinners,6.7
+70,1072,Mary Poppins,7.8
+71,1073,Emil and the Detectives,6.0
+72,1074,Those Calloways,6.7
+73,1075,The Monkey's Uncle,6.1
+74,1076,That Darn Cat!,6.8
+75,1077,The Ugly Dachshund,6.7
+76,1078,"Lt. Robin Crusoe, U.S.N.",6.1
+77,1079,The Fighting Prince of Donegal,6.2
+78,1080,"Follow Me, Boys!",7.2
+79,1081,"Monkeys, Go Home!",5.9
+80,1082,The Adventures of Bullwhip Griffin,6.5
+81,1083,The Gnome-Mobile,6.6
+82,1084,The Jungle Book,7.4
+83,1085,"Charlie, the Lonesome Cougar",6.9
+84,1086,The Happiest Millionaire,6.8
+85,1087,Blackbeard's Ghost,6.9
+86,1088,"The One and Only, Genuine, Original Family Band",6.5
+87,1089,Never a Dull Moment,6.2
+88,1090,The Horse in the Gray Flannel Suit,6.5
+89,1091,The Love Bug,6.5
+90,1092,Smith!,5.8
+91,1093,Rascal,6.5
+92,1094,The Computer Wore Tennis Shoes,6.1
+93,1095,King of the Grizzlies,5.8
+94,1096,The Boatniks,5.6
+95,1097,The Wild Country,6.4
+96,1098,The Aristocats,7.1
+97,1099,The Barefoot Executive,6.1
+98,1100,Scandalous John,6.0
+99,1101,The Million Dollar Duck,5.9
+100,1102,Bedknobs and Broomsticks,7.1
+101,1103,The Biscuit Eater,5.7
+102,1104,"Now You See Him, Now You Don't",6.3
+103,1105,Napoleon and Samantha,6.1
+104,1106,"Run, Cougar, Run",6.5
+105,1107,Snowball Express,6.5
+106,1108,The World's Greatest Athlete,5.8
+107,1109,Charley and the Angel,6.2
+108,1110,Robin Hood,6.6
+109,1111,Superdad,5.3
+110,1112,Herbie Rides Again,5.7
+111,1113,The Bears and I,6.2
+112,1114,The Castaway Cowboy,5.9
+113,1115,The Island at the Top of the World,6.3
+114,1116,The Strongest Man in the World,6.1
+115,1117,Escape to Witch Mountain,6.4
+116,1118,The Apple Dumpling Gang,6.5
+117,1119,One of Our Dinosaurs is Missing,6.0
+118,1120,The Best of Walt Disney's True-Life Adventures,7.2
+119,1121,Ride a Wild Pony,6.3
+120,1122,"No Deposit, No Return",6.6
+121,1123,Treasure of Matecumbe,6.2
+122,1124,Gus,5.9
+123,1125,The Shaggy D.A.,5.9
+124,1128,The Many Adventures of ,7.6
+125,1129,A Tale of Two Critters,6.2
+126,1130,The Rescuers,6.9
+127,1131,Herbie Goes to Monte Carlo,5.7
+128,1132,Pete's Dragon,6.7
+129,1133,Candleshoe,6.8
+130,1134,Return from Witch Mountain,5.9
+131,1135,The Cat from Outer Space,6.1
+132,1136,Hot Lead and Cold Feet,6.2
+133,1137,The North Avenue Irregulars,6.8
+134,1138,The Apple Dumpling Gang Rides Again,6.2
+135,1139,Unidentified Flying Oddball,5.3
+136,1140,The Black Hole,6.0
+137,1142,Midnight Madness,6.4
+138,1143,The Watcher in the Woods,6.3
+139,1144,Herbie Goes Bananas,5.0
+140,1145,The Last Flight of Noah's Ark,5.8
+141,1146,Popeye,5.3
+142,1147,The Devil and Max Devlin,5.1
+143,1148,Amy,7.8
+144,1149,Dragonslayer,6.7
+145,1150,The Fox and the Hound,7.3
+146,1151,Condorman,5.8
+147,1152,Night Crossing,6.5
+148,1153,Tron,6.8
+149,1154,Tex,6.5
+150,1155,Trenchcoat,5.3
+151,1156,Something Wicked This Way Comes,6.8
+152,1157,Never Cry Wolf,7.5
+153,1158,Return to Oz,6.8
+154,1159,The Black Cauldron,6.4
+155,1160,The Journey of Natty Gann,7.1
+156,1161,One Magic Christmas,6.5
+157,1162,The Great Mouse Detective,7.2
+158,1163,Flight of the Navigator,6.9
+159,1164,Benji the Hunted,6.3
+160,1166,Oliver & Company,6.7
+161,1167,"Honey, I Shrunk the Kids",6.4
+162,1168,Cheetah,6.1
+163,1169,The Little Mermaid,7.6
+164,1170,DuckTales the Movie: Treasure of the Lost Lamp,6.9
+165,1171,The Rescuers Down Under,6.9
+166,1172,White Fang,6.7
+167,1173,Shipwrecked,6.7
+168,1174,Wild Hearts Can't Be Broken,7.3
+169,1175,The Rocketeer,6.5
+170,1176,Beauty and the Beast,8.0
+171,1177,Newsies,7.0
+172,1178,"Honey, I Blew Up the Kid",4.9
+173,1179,The Mighty Ducks,6.6
+174,1180,Aladdin,8.0
+175,1181,The Muppet Christmas Carol,7.7
+176,1182,Homeward Bound: The Incredible Journey,7.0
+177,1183,A Far Off Place,6.6
+178,1184,The Adventures of Huck Finn,6.2
+179,1185,Hocus Pocus,6.9
+180,1186,Cool Runnings,7.0
+181,1187,The Three Musketeers,5.7
+182,1188,Iron Will,6.6
+183,1189,Blank Check,5.3
+184,1190,D2: The Mighty Ducks,6.1
+185,1191,White Fang 2: Myth of the White Wolf,5.5
+186,1192,The Lion King,8.5
+187,1193,Angels in the Outfield,6.2
+188,1194,Squanto: A Warrior's Tale,6.0
+189,1195,The Santa Clause,6.5
+190,1196,Rudyard Kipling's The Jungle Book,7.1
+191,1197,Heavyweights,6.7
+192,1198,Man of the House,5.4
+193,1199,Tall Tale,5.9
+194,1200,A Goofy Movie,6.9
+195,1201,Pocahontas,6.7
+196,1202,Operation Dumbo Drop,5.1
+197,1203,A Kid in King Arthur's Court,4.7
+198,1204,The Big Green,5.6
+199,1205,Frank and Ollie,7.7
+200,1206,Toy Story,8.3
+201,1207,Tom and Huck,5.5
+202,1208,Muppet Treasure Island,7.0
+203,1209,Homeward Bound II:Lost in San Francisco,6.0
+204,1210,James and the Giant Peach,6.7
+205,1211,The Hunchback of Notre Dame,6.9
+206,1212,First Kid,5.3
+207,1213,D3: The Mighty Ducks,5.5
+208,1214,101 Dalmatians,5.7
+209,1215,That Darn Cat,4.7
+210,1216,Jungle 2 Jungle,5.2
+211,1217,Hercules,7.3
+212,1218,George of the Jungle,5.5
+213,1219,Air Bud,5.2
+214,1220,RocketMan,7.3
+215,1221,Flubber,5.3
+216,1222,Mr. Magoo,4.0
+217,1223,Meet the Deedles,4.1
+218,1224,Mulan,7.6
+219,1225,The Parent Trap,6.5
+220,1226,I'll Be Home for Christmas,5.5
+221,1227,A Bug's Life,7.2
+222,1228,Mighty Joe Young,5.6
+223,1229,My Favorite Martian,5.1
+224,1230,Doug's 1st Movie,5.0
+225,1231,Endurance,7.3
+226,1232,Tarzan,7.3
+227,1233,Inspector Gadget,4.2
+228,1234,The Straight Story,8.0
+229,1235,Toy Story 2,7.9
+230,1236,Fantasia 2000,7.2
+231,1237,The Tigger Movie,6.3
+232,1238,Dinosaur,6.5
+233,1239,The Kid,8.3
+234,1240,Remember The Titans,7.8
+235,1241,102 Dalmatians,4.9
+236,1242,The Emperor's New Groove,7.4
+237,1243,Recess: School's Out,6.6
+238,1244,Atlantis: The Lost Empire,6.9
+239,1245,The Princess Diaries,6.3
+240,1246,Max Keeble's Big Move,5.4
+241,1247,"Monsters, Inc.",8.1
+242,1248,Snow Dogs,5.2
+243,1249,Return to Never Land,5.8
+244,1250,The Rookie,6.9
+245,1251,Lilo & Stitch,7.2
+246,1252,The Country Bears,4.1
+247,1253,Tuck Everlasting,6.6
+248,1254,The Santa Clause 2,5.6
+249,1255,Treasure Planet,7.2
+250,1256,The Jungle Book 2,5.4
+251,1257,Piglet's Big Movie,6.2
+252,1258,Ghosts of the Abyss,6.8
+253,1259,Holes,7.0
+254,1260,The Lizzie McGuire Movie,5.5
+255,1261,Finding Nemo,8.1
+256,1262,Pirates of the Caribbean:The Curse of the Black Pearl,8.0
+257,1263,Freaky Friday,6.2
+258,1264,Brother Bear,6.8
+259,1265,The Haunted Mansion,5.0
+260,1266,The Young Black Stallion,5.6
+261,1267,Teacher's Pet,7.1
+262,1268,Miracle,7.5
+263,1270,Home on the Range,5.4
+264,1271,Sacred Planet,6.1
+265,1272,Around the World in 80 Days,5.9
+266,1274,The Princess Diaries 2:Royal Engagement,5.8
+267,1275,The Incredibles,8.0
+268,1276,National Treasure,6.9
+269,1277,Aliens of the Deep,6.4
+270,1278,Pooh's Heffalump Movie,6.4
+271,1279,The Pacifier,5.6
+272,1280,Ice Princess,6.0
+273,1281,Herbie: Fully Loaded,4.8
+274,1282,Sky High,6.2
+275,1283,Valiant,5.5
+276,1284,The Greatest Game Ever Played,7.4
+277,1285,Chicken Little,5.7
+278,1286,"The Chronicles of Narnia:The Lion, the Witch and the Wardrobe",6.9
+279,1287,Glory road,7.2
+280,1288,Roving Mars,7.2
+281,1289,Eight Below,7.3
+282,1290,The Shaggy Dog,4.4
+283,1291,The Wild,5.2
+284,1292,Cars,7.1
+285,1293,Pirates of the Caribbean:  Dead Man's Chest,7.3
+286,1294,Invincible,7.1
+287,1295,The Santa Clause 3:The Escape Clause,4.8
+288,1296,Bridge to Terabithia,7.1
+289,1297,Meet the Robinsons,6.8
+290,1298,Pirates of the Caribbean:  At World's End,7.1
+291,1299,Ratatouille,8.0
+292,1300,Underdog,4.7
+293,1301,The Pixar Story,7.8
+294,1302,The Game Plan,6.1
+295,1303,Enchanted,7.0
+296,1304,National Treasure: Book of Secrets,6.5
+297,1305,Hannah Montana and Miley Cyrus:Best of Both Worlds Concert,2.4
+298,1306,College Road Trip,4.3
+299,1307,The Chronicles of Narnia: Prince Caspian,6.5
+300,1308,WALL-E,8.4
+301,1309,Beverly Hills Chihuahua,3.8
+302,1310,Morning Light,5.8
+303,1311,High School Musical 3:  Senior Year,4.8
+304,1312,Bolt,6.8
+305,1313,Bedtime Stories,6.0
+306,1314,Jonas Brothers:The 3D Concert Experience,1.6
+307,1315,Race to Witch Mountain,5.7
+308,1316,Hannah Montana: The Movie,4.5
+309,1317,Earth,8.0
+310,1318,Up,8.2
+311,1320,G-Force,5.1
+312,1321,Walt & El Grupo,6.4
+313,1323,A Christmas Carol,6.8
+314,1324,Old Dogs,5.4
+315,1325,The Princess and the Frog,7.1
+316,1326,Alice in Wonderland,6.4
+317,1327,Oceans,7.8
+318,1328,Prince of Persia: The Sands of Time,6.6
+319,1329,Toy Story 3,8.2
+320,1330,The Sorcerer's Apprentice,6.1
+321,1331,The Crimson Wing: Mystery of the Flamingos,7.3
+322,1332,Secretariat,7.2
+323,1333,Do Dooni Chaar,7.6
+324,1334,Tangled,7.7
+325,1336,Tron: Legacy,6.8
+326,1338,Lilly the Witch:The Journey to Mandolan,4.8
+327,1339,Mars Needs Moms,5.4
+328,1340,Zokkomon,4.1
+329,1341,African Cats,7.6
+330,1342,Prom,5.4
+331,1343,Pirates of the Caribbean:On Stranger Tides,6.6
+332,1344,Cars 2,6.1
+333,1345,Winnie the Pooh,7.2
+334,1346,The Muppets,7.1
+335,1347,John Carter,6.6
+336,1348,Chimpanzee,7.2
+337,1349,Arjun: The Warrior Prince,6.8
+338,1350,Brave,7.1
+339,1351,The Odd Life of Timothy Green,6.6
+340,1352,Frankenweenie,6.9
+341,1353,Wreck-It Ralph,7.7
+342,1354,Oz the Great and Powerful,6.3
+343,1355,Wings of Life,7.4
+344,1356,Monsters University,7.3
+345,1357,The Lone Ranger,6.4
+346,1358,Planes,5.7
+347,1359,Frozen,7.4
+348,1360,Saving Mr. Banks,7.5
+349,1361,Muppets Most Wanted,6.4
+350,1362,Bears,7.4
+351,1363,Million Dollar Arm,7.0
+352,1364,Maleficent,7.0
+353,1365,Planes: Fire & Rescue,6.0
+354,1366,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",6.2
+355,1367,Big Hero 6,7.8
+356,1368,Into the Woods,5.9
+357,1369,"McFarland, USA",7.4
+358,1370,Cinderella,6.9
+359,1371,Monkey Kingdom,7.3
+360,1372,Tomorrowland,6.4
+361,1373,Inside Out,8.1
+362,1375,The Good Dinosaur,6.7
+363,1376,The Finest Hours,6.8
+364,1377,Zootopia,8.0
+365,1378,The Jungle Book,7.4
+366,1379,Alice Through the Looking Glass,6.2
+367,1380,Finding Dory,7.3
+368,1381,The BFG,6.4
+369,1382,Pete's Dragon,6.7
+370,1383,Queen of Katwe,7.4
+371,1384,Moana,7.6
+372,1385,Dangal,8.4
+373,1386,March of the Penguins,7.5
+374,1387,Beauty and the Beast,8.0
+375,1388,Pirates of the Caribbean:Dead Men Tell No Tales,6.5
+376,1389,Cars 3,6.7
+377,1390,Ghost of the Mountains,6.9
+378,1391,Jagga Jasoos,6.5
+379,1392,Coco,8.4
+380,1393,A Wrinkle in Time,4.2
+381,1394,Incredibles 2,7.6
+382,1395,Christopher Robin,7.3
+383,1396,The Nutcracker and the Four Realms,5.6
+384,1397,Ralph Breaks the Internet,7.0
+385,1398,Mary Poppins Returns,6.7
+386,1399,Dumbo,7.2
+387,1400,Penguins,7.1
+388,1401,Aladdin,8.0
+389,1402,Toy Story 4,7.8
+390,1403,The Lion King,8.5
+391,1404,Maleficent: Mistress of Evil,6.6
+392,1405,Lady and the Tramp,7.3
+393,1406,Noelle,6.3
+394,1407,Frozen II,6.9
+395,1408,Togo,8.0
+396,1409,Timmy Failure: Mistakes Were Made,6.1
+397,1410,Onward,7.4
+398,1411,Stargirl,7.3
+399,1412,Dolphin Reef,7.5
+400,1413,Elephant,7.2
+401,1414,Artemis Fowl,4.2
+402,1415,Hamilton,8.5
+403,1416,Black Is King,5.5
+404,1417,Magic Camp,6.3
+405,1418,The One and Only Ivan,6.7
+406,1419,Mulan,7.6
+407,1420,Godmothered,6.1
+408,1421,Safety,6.8
+409,1422,Soul,8.1
+410,1423,Flora & Ulysses,6.3
+411,1424,Raya and the Last Dragon,7.5
+412,1426,Luca,7.4
+413,1428,The Beatles: Get Back,8.0
+414,1431,The Little Mermaid,7.6
+415,1433,Chip 'n Dale: Rescue Rangers,7.6
+416,1434,Enchanted,7.0
+417,1435,Pinocchio,7.4
